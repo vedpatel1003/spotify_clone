@@ -2,7 +2,7 @@ console.log("Welcome to Spotify");
 
 // Initialize the Variables
 let songIndex = 0;
-let audioElement = new Audio('1.mp3');
+let audioElement = new Audio('music_files/1.mp3.mp3');
 let masterplay = document.getElementyById('masterplay');
 let myprogressbar = document.getElementById('myprogressbar');
 
